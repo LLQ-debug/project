@@ -1,0 +1,6 @@
+matcher\ImageMatcher.class
+utils\MouseAction.class
+utils\WindowUtils.class
+main\GameAutomationMain.class
+processor\ImageProcessor.class
+ocr\OCRHelper.class
